@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ 
+I'm a harmless fantacy lover.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<iframe src="https://open.spotify.com/embed/user/wizardzombie_99/playlist/20R1mTb5O9ZcMkF4ScywEU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
