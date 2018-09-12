@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson -Learning about work this year.</td>
+    <td>Lesson 1-Learning about work this year.</td>
     <td>Date</td>
     <td>06/09/18</td>
   </tr>
