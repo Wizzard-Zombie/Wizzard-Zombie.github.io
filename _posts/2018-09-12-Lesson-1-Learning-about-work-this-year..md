@@ -57,6 +57,9 @@ published: true
     <td>Engagement</td>
     <td>We had to listen to quite a lot of talking from our teachers the beginning of the lesson and so I was engaged for that.</td>
   </tr>
+  </table>
+  
+  <table>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
