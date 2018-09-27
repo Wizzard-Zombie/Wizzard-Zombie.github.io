@@ -57,6 +57,9 @@ published: true
     <td>Engagement</td>
     <td>We had to listen to our teacher for about 20 minutes while he was telling what we had to do in the lesson.</td>
   </tr>
+  </table>
+  
+  <table>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
