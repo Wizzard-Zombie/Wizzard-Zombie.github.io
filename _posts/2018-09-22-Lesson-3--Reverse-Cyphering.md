@@ -57,6 +57,9 @@ published: true
     <td>Engagement</td>
     <td>I had to be engaged at the beginning while we were being briefed so that I knew what I had to do.</td>
   </tr>
+  </table>
+  
+  <table>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
